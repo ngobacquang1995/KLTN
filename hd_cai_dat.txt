@@ -1,0 +1,4 @@
+﻿B1: Tạo cơ sở dữ liệu mới trên xamp hoặc wamp tên 'trees' sau dó import file database/trees.sql vào cơ sở dữ liệu vừa tạo.
+B2: Copy thư mục KLTN vào thư mục chạy localhost.
+B3: Chạy chương trình trên trình duyệt web. 
+	+ Vào trang quản trị đăng nhập với tài khoản admin và mật khẩu 123.
